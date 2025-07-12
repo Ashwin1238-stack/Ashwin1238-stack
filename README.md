@@ -36,7 +36,6 @@
 ---
 ## 📂 Featured Projects
 
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png" width="100"/>
 
 - 📉 [**Customer Churn Prediction (Hackathon-2025)**](https://github.com/AshwinKumar/telecom-churn-analysis)  
 - 📊 [**Job Market Analysis**](https://github.com/AshwinKumar/tensorflow-keras-learning)  
