@@ -12,12 +12,6 @@ I believe in turning raw data into clear, actionable insights. With hands-on exp
 
 ---
 
-### 🧠 My Mindset in One Picture
-
-<p align="center">
-  <img src="https://github.com/ashwinkumar/ashwinkumar/blob/main/images/2d-dashboard.png" alt="2D Dashboard" width="700"/>
-</p>
-
 <p align="center"><i>This 2D dashboard symbolizes my passion for clean, insightful, and impactful data stories.</i></p>
 
 
