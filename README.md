@@ -37,8 +37,30 @@
 ## 📂 Featured Projects
 
 
-- 📉 [**Customer Churn Prediction (Hackathon-2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)  
+- 📉 [**Customer Churn Prediction (Hackathon-2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)
+- - 🔍 Objective: To predict which telecom users are likely to **churn** (leave the service).
+- 🛠️ Tools: Python (Pandas, Matplotlib, Scikit-learn), PowerBI, Logistic Regression, Random Forest.
+- 📈 Process:
+  - Cleaned and preprocessed raw customer data.
+  - Performed **Exploratory Data Analysis (EDA)** to identify factors like contract type, tenure, payment methods.
+  - Built a **Logistic Regression model** and **Random Forest model** to predict churn probability.
+- 💡 Insights:
+  - Month-to-month customers with Electronics Cheque Payment Medhod and Long Tenure had **high churn risk**.
+  - Long-term contracts and autopay(credit card) were **linked to lower churn**.
+- ✅ Result: Helped design targeted retention strategies to reduce churn.  
 - 📊 [**Job Market Analysis**](https://github.com/Ashwin1238-stack/Job-Scraper-Analyzing-Data-Roles-Trends)  
+- 🔍 Objective: To explore job trends and skills demand in the data industry.
+- 🛠️ Tools: Python, SQL and Excel.
+- 📊 Process:
+  - Tried to collect job listings data using **web scraping and APIs**.
+  - Cleaned and normalized job titles, locations, and skill tags.
+  - onnected MySQL using SQL Connector for Querries.
+- 💡 Insights:
+  - Management, Engineering and Analyst were **top 3 demanded skills**.
+  - Seoul and Apia were major hubs for **Multiple Job Post**.
+  - Most Jobs were posted in **December-2021**.
+  - Companies favored candidates with **real-world project exposure**.
+- ✅ Result: Provided strategic recommendations for learners and job seekers.
 
 ### 📬 Let's Connect!
 
