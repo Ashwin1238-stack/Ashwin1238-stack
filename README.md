@@ -8,8 +8,8 @@
 ## 👨‍💻 About Me
 
 - 🔍 Exploring the world of **Data Science**, **Machine Learning**, and **Business Intelligence**
-- 💼 Ex-Business Analyst at **HDFC Bank** | Worked on **Python**, **Excel**, & **Market Research**
-- 🎓 MBA in **Data Analytics**
+- 💼 Ex-Personal Banker - Data Analyst at **HDFC Bank** | Worked on **Python**, **Excel**, & **Market Research**
+- 🎓 MBA in **Business Analytics**
 - 💡 5⭐ in **SQL** on HackerRank | Hackathon Participant | EDA Enthusiast
 - 📈 Passionate about transforming data into meaningful insights
 
