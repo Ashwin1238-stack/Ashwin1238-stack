@@ -11,7 +11,7 @@
 </p>
 ---
 ## 👨‍💻 About Me
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120"/>
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="60"/>
 - 🔍 Exploring the world of **Data Science**, **Machine Learning**, and **Business Intelligence**
 - 💼 Ex-Personal Banker - Data Analyst at **HDFC Bank** | Worked on **Python**, **Excel**, & **Market Research**
 - 🎓 MBA in **Business Analytics**
