@@ -18,7 +18,7 @@
 ---
 
 ### 🔧 Tools & Technologies
-
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/8434/8434310.png" width="120"/>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-darkblue?logo=mysql&logoColor=white" />
