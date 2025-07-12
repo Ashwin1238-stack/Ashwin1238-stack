@@ -3,6 +3,12 @@
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🌍 From Jharkhand, India &nbsp; | &nbsp; 🎓 MBA in Business Analytics 
 </p>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100" alt="Data Analysis Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2989/2989988.png" width="100" alt="Dashboard Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3833/3833927.png" width="100" alt="AI Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="100" alt="Machine Learning Icon"/>
+</p>
 ---
 ## 👨‍💻 About Me
 
