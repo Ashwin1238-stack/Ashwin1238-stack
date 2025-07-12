@@ -11,7 +11,7 @@
 </p>
 ---
 ## 👨‍💻 About Me
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="60"/>
+
 - 🔍 Exploring the world of **Data Science**, **Machine Learning**, and **Business Intelligence**
 - 💼 Ex-Personal Banker - Data Analyst at **HDFC Bank** | Worked on **Python**, **Excel**, & **Market Research**
 - 🎓 MBA in **Business Analytics**
@@ -23,6 +23,7 @@
 ---
 
 ### 🔧 Tools & Technologies
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120"/>
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/8434/8434310.png" width="50"/>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
