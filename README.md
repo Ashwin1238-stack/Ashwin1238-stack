@@ -37,8 +37,8 @@
 ## 📂 Featured Projects
 
 
-- 📉 [**Customer Churn Prediction (Hackathon-2025)**](https://github.com/AshwinKumar/telecom-churn-analysis)  
-- 📊 [**Job Market Analysis**](https://github.com/AshwinKumar/tensorflow-keras-learning)  
+- 📉 [**Customer Churn Prediction (Hackathon-2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)  
+- 📊 [**Job Market Analysis**](https://github.com/Ashwin1238-stack/Job-Scraper-Analyzing-Data-Roles-Trends)  
 
 ### 📬 Let's Connect!
 
