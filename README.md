@@ -5,9 +5,13 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshibar/image-repo/main/data-science-banner.jpg" width="80%" alt="Data Science Banner"/>
-</p>
+## 👨‍💻 About Me
+
+- 🔍 Exploring the world of **Data Science**, **Machine Learning**, and **Business Intelligence**
+- 💼 Ex-Business Analyst at **HDFC Bank** | Worked on **Python**, **Excel**, & **Market Research**
+- 🎓 MBA in **Data Analytics**
+- 💡 5⭐ in **SQL** on HackerRank | Hackathon Participant | EDA Enthusiast
+- 📈 Passionate about transforming data into meaningful insights
 
 
 
