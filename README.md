@@ -39,14 +39,14 @@
 
 
  📉 [**Customer Churn Prediction (Hackathon-2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)
-- - 🔍 Objective: To predict which telecom users are likely to **churn** (leave the service).
-- 🛠️ Tools: Python (Pandas, Matplotlib, Scikit-learn), PowerBI, Logistic Regression, Random Forest.
+- - 🔍 Objective: To predict which telecom users are likely to **churn**.
+- 🛠️ Tools: Python, PowerBI, Logistic Regression, Random Forest.
 - 📈 Process:
   - Cleaned and preprocessed raw customer data.
-  - Performed **Exploratory Data Analysis (EDA)** to identify factors like contract type, tenure, payment methods.
-  - Built a **Logistic Regression model** and **Random Forest model** to predict churn probability.
+  - Performed **Exploratory Data Analysis (EDA)** to identify factors.
+  - Built a **Logistic Regression model** and **Random Forest model**.
 - 💡 Insights:
-  - Month-to-month customers with Electronics Cheque Payment Medhod and Long Tenure had **high churn risk**.
+  - Month-to-month customers with Electronics Cheque Pay had **high churn risk**.
   - Long-term contracts and autopay(credit card) were **linked to lower churn**.
 - ✅ Result: Helped design targeted retention strategies to reduce churn.  
 
