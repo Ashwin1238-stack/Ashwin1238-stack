@@ -5,15 +5,9 @@
 </p>
 
 ---
-
-### 🧠 My Mindset in One Picture
-
 <p align="center">
-  <img src="https://github.com/ashwinkumar/ashwinkumar/blob/main/images/2d-dashboard.png" alt="2D Dashboard" width="700"/>
+  <img src="https://raw.githubusercontent.com/harshibar/image-repo/main/data-science-banner.jpg" width="80%" alt="Data Science Banner"/>
 </p>
-
-<p align="center"><i>This 2D dashboard symbolizes my passion for clean, insightful, and impactful data stories.</i></p>
-
 
 
 
