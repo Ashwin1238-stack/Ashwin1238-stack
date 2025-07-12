@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashwin Kumar 👋</h1>
 
 <p align="center">
-  🌍 From Jharkhand, India &nbsp; | &nbsp; 🎓 MBA in Data Analytics &nbsp; | &nbsp; 💼 Ex-HDFC Bank, ITC, Borewell Engineering
+  💼 Ex-HDFC Bank &nbsp; | &nbsp;🌍 From Jharkhand, India &nbsp; | &nbsp; 🎓 MBA in Business Analytics 
 </p>
 
 ---
@@ -12,13 +12,15 @@ I believe in turning raw data into clear, actionable insights. With hands-on exp
 
 ---
 
-### 🧠 My Mindset in a Picture
+### 🧠 My Mindset in One Picture
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepo/blob/main/images/3d-dashboard.png" alt="3D Dashboard" width="700"/>
+  <img src="https://github.com/ashwinkumar/ashwinkumar/blob/main/images/2d-dashboard.png" alt="2D Dashboard" width="700"/>
 </p>
 
-*This 3D dashboard is a symbol of my love for clean, impactful data visualization.*
+<p align="center"><i>This 2D dashboard symbolizes my passion for clean, insightful, and impactful data stories.</i></p>
+
+
 
 ---
 
