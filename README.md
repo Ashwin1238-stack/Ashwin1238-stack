@@ -10,7 +10,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="100" alt="Machine Learning Icon"/>
 </p>
 ---
-## 👨‍💻 About Me
+
+### 👨‍💻ABOUT ME👨‍💻 
 
 - 🔍 Exploring the world of **Data Science**, **Machine Learning**, and **Business Intelligence**
 - 💼 Ex-Personal Banker - Data Analyst at **HDFC Bank** | Worked on **Python**, **Excel**, & **Market Research**
