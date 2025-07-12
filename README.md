@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashwin Kumar 👋</h1>
 
 <p align="center">
-  💼 Ex-HDFC Bank &nbsp; | &nbsp;🌍 From Jharkhand, India &nbsp; | &nbsp; 🎓 MBA in Business Analytics 
+  💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi,Jharkhand
 </p>
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100" alt="Data Analysis Icon"/>
@@ -11,7 +11,7 @@
 </p>
 ---
 ## 👨‍💻 About Me
-
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120"/>
 - 🔍 Exploring the world of **Data Science**, **Machine Learning**, and **Business Intelligence**
 - 💼 Ex-Personal Banker - Data Analyst at **HDFC Bank** | Worked on **Python**, **Excel**, & **Market Research**
 - 🎓 MBA in **Business Analytics**
