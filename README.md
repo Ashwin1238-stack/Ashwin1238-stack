@@ -6,13 +6,14 @@
 
 ---
 
-### 🚀 Passionate About Data & Insights
+### 🧠 My Mindset in One Picture
 
-I believe in turning raw data into clear, actionable insights. With hands-on experience in banking, corporate strategy, and analytics, I combine business acumen with data tools like Python, SQL, and Power BI to deliver results.
-
----
+<p align="center">
+  <img src="https://github.com/ashwinkumar/ashwinkumar/blob/main/images/2d-dashboard.png" alt="2D Dashboard" width="700"/>
+</p>
 
 <p align="center"><i>This 2D dashboard symbolizes my passion for clean, insightful, and impactful data stories.</i></p>
+
 
 
 
