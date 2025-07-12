@@ -3,7 +3,9 @@
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🌍 From Jharkhand, India &nbsp; | &nbsp; 🎓 MBA in Business Analytics 
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshibar/image-repo/main/data-science-banner.jpg" width="75%" alt="Data Science Banner"/>
+</p>
 ---
 ## 👨‍💻 About Me
 
