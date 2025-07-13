@@ -9,7 +9,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/3833/3833927.png" width="100" alt="AI Icon"/>
   <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="100" alt="Machine Learning Icon"/>
 </p>
----
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Exploring+the+world+of+DataScience;Exploring+the+world+of+MachineLearning;Visualizing+Business+Stories+with+Data.">
 </p>
