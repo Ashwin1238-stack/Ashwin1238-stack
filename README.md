@@ -75,9 +75,6 @@
 <!-- Colorful connection icon (right side) -->
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/3089/3089758.png" width="100" alt="Networking Icon" />
 
-<!-- Colorful handheld network icon (left side) -->
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/979/9792979.png" width="80" alt="Supportive Connection" />
-
 <br />
 
 ## 🤝 Let's Connect & Collaborate
