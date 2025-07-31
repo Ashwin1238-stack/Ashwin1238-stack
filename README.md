@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Ashwin Kumar 👋</h1>
 <h1 align="center" style="font-size:40px; color:#FF4C4C; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   Hi, I'm <span style="color:#00BFFF;">Ashwin Kumar</span>
 </h1>
