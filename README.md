@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Tableau-purple?logo=tableau&logoColor=white" />
 </p>
 
-
+---
 ## 🎯 My Projects & Insights
 
 <p align="center">
