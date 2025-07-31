@@ -1,6 +1,7 @@
-<h1 align="center" style="color:#FF5555; font-size: 36px;">
-  Hi, I'm <span style="color:#6C63FF;">Ashwin Kumar</span>
+<h1 align="center">
+  <span style="color:#0A1D56;"><strong>Hi, I'm Ashwin Kumar</strong></span>
 </h1>
+
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
 </p>
