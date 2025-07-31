@@ -1,6 +1,7 @@
-<h1 align="center" style="font-size:40px; color:#FF4C4C; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Hi, I'm <span style="color:#00BFFF;">Ashwin Kumar</span>
+<h1 align="center">
+  👋 <span style="color:#FF4C4C; font-weight:bold; font-size:40px;">Hi, I'm</span> <span style="color:#00BFFF; font-size:42px;"><strong>Ashwin Kumar</strong></span> 🚀
 </h1>
+
 
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
