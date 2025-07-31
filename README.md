@@ -5,17 +5,21 @@
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
 </p>
-<!-- GitHub Profile Header with Beautiful Images -->
-
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="60" alt="Data Icon" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" alt="Analytics Icon" />
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149679.png" width="60" alt="Machine Learning Brain" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="60" alt="Power BI Icon" />
-</p>
 
-<h1 align="center" style="color: green;">
-  🚀 Welcome to My Data Science
+  <!-- Python -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="60" style="margin: 10px;" />
+
+  <!-- SQL -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="60" style="margin: 10px;" />
+
+  <!-- Power BI -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Power BI" width="60" style="margin: 10px;" />
+
+  <!-- Excel -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="60" style="margin: 10px;" />
+
+</p>
 
 .<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=FF4C4C&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Thank" />
