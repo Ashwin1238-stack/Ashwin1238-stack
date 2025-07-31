@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 <span style="color:#FF4C4C; font-weight:bold; font-size:40px;">Hi, I'm</span> <span style="color:#00BFFF; font-size:42px;"><strong>Ashwin Kumar</strong></span> 🚀
+  👋 <span style="color:#FF4C4C; font-weight:bold; font-size:40px;">Hi, I'm</span> <span style="color:#00BFFF; font-size:42px;"><strong>Ashwin Kumar</strong></span> 👋
 </h1>
 
 
