@@ -6,16 +6,18 @@
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
 </p>
 <p align="center">
-  <!-- Data Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140047.png" width="60" alt="Data Icon" />
-  <!-- Analytics Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2910/2910990.png" width="60" alt="Analytics Icon" />
-  <!-- ML Brain Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149881.png" width="60" alt="Machine Learning Icon" />
-  <!-- Power BI Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969018.png" width="60" alt="Power BI Icon" />
-</p>
+  <!-- Colorful BI Dashboard -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png" width="60" alt="BI Dashboard Icon" />
 
+  <!-- Analytics Dashboard Chart -->
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="60" alt="Chart Icon" />
+
+  <!-- KPI Dashboard -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4828/4828654.png" width="60" alt="KPI Icon" />
+
+  <!-- Data Monitoring Dashboard -->
+  <img src="https://cdn-icons-png.flaticon.com/512/10338/10338426.png" width="60" alt="Monitoring Icon" />
+</p>
 
 .<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=FF4C4C&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Thank" />
