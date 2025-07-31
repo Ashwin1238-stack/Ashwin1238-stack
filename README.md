@@ -46,41 +46,42 @@
 ## 🎯 My Projects & Insights
 
 <p align="center">
-  <!-- Left colorful graph icon -->
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/3479/3479371.png" width="70" alt="Analytics Graph" />
-  <!-- Right colorful data team icon -->
-  <img align="right" src="https://cdn-icons-png.flaticon.com/512/3444/3444076.png" width="90" alt="Data Team Collaboration" />
+  <!-- Icon: churn rate chart -->
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/9593/9593083.png" width="70" alt="Churn Rate Icon" />
+  <!-- Icon: job market analytics -->
+  <img align="right" src="https://cdn-icons-png.flaticon.com/512/3565/3565002.png" width="90" alt="Market Analysis Icon" />
 </p>
 
 ### 📉 [**Customer Churn Prediction (Hackathon‑2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)  
-**🔍 Objective:** Predict telecom user churn  
+**🔍 Objective:** Predict customer churn for a telecom service  
 **🛠️ Tools:** Python, Power BI, Logistic Regression, Random Forest  
 **📈 Process:**  
-- Cleaned/preprocessed raw customer data  
-- Performed **EDA** to identify churn predictors  
-- Built both **Logistic Regression** & **Random Forest** models  
+- Cleaned and preprocessed large customer datasets  
+- Conducted **EDA** to understand churn drivers  
+- Built and compared **Logistic Regression** and **Random Forest** models  
 **💡 Insights:**  
-- Month‑to‑month plan users with **electronic cheque pay** had **higher churn risk**  
-- **Long-term contracts** + **autopay (credit card)** were tied to **reduced churn**  
-**✅ Result:** Enabled design of targeted retention strategies to lower churn
+- Month-to-month customers using **electronic cheque pay** showed **higher churn risk**  
+- **Long-term contracts** and **autopay (credit card)** reduced churn significantly  
+**✅ Result:** Enabled strategic retention planning based on model outcomes
 
 ---
 
 ### 📊 [**Job Market Analysis**](https://github.com/Ashwin1238-stack/Job-Scraper-Analyzing-Data-Roles-Trends)  
-**🔍 Objective:** Explore data industry role trends and skill demand  
+**🔍 Objective:** Analyze trending roles and skills in the data sector  
 **🛠️ Tools:** Python, SQL, Excel  
 **📊 Process:**  
-- Scraped job listings via **APIs & scraping**  
-- Cleaned and normalized job titles, locations, and skills  
-- Queried data in MySQL via SQL Connector  
+- Scraped live job postings via **APIs and web scraping**  
+- Cleaned data to standardize job titles, locations, and skills  
+- Queried datasets using MySQL for aggregated insights  
 **💡 Insights:**  
-- **Management**, **Engineering**, and **Analyst** roles topped the demand list  
-- Job hotspots: **Seoul** and **Apia**  
-- Posting peaks observed in **December 2021**  
-- Employers prioritize candidates with **real-world project experience**  
-**✅ Result:** Delivered actionable career guidance backed by real-world data
+- Top in-demand roles: **Management**, **Engineering**, and **Analyst**  
+- Geographic hotspots: **Seoul** and **Apia**  
+- Peak activity observed in **December 2021**  
+- Employers prioritize candidates with **hands-on data projects**  
+**✅ Result:** Provided data-informed recommendations for learners and job seekers
 
 <br clear="both"/>
+
 
 
 <!-- Colorful connection icon (right side) -->
