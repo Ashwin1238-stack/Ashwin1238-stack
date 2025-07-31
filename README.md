@@ -5,6 +5,13 @@
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
 </p>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/639/639365.png" width="40" title="Data Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="40" title="Analytics Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149674.png" width="40" title="Machine Learning"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="40" title="Power BI"/>
+</p>
+
 .<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=FF4C4C&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Thank" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=1D9BF0&background=FFFFFF00&center=true&vCenter=true&width=260&lines=you+for" />
