@@ -83,7 +83,15 @@
 
 <br />
 
-## 🌟 Let's Connect & Collaborate
+<!-- Left icon: networking -->
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/10032/10032435.png" width="60" />
+
+<!-- Right icon: digital handshake -->
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/11491/11491551.png" width="110" />
+
+<br />
+
+## 🤝 Let's Connect & Collaborate
 
 <p align="center">
   <a href="mailto:ashwinkr676@gmail.com">
@@ -102,10 +110,11 @@
 <br />
 
 <p align="center">
-  <b>🙏 Thank you for visiting my profile! Let’s connect and build something incredible together. 🚀</b>
+  <b>🙏 Thank you for visiting my profile! Feel free to reach out — let’s build something amazing. 🚀</b>
 </p>
 
 <br clear="both"/>
+
 
 
 </p>
