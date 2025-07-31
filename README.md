@@ -13,12 +13,6 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1000&pause=0&color=990000&background=FFFFFF00&center=true&vCenter=true&width=320&lines=Thank" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1000&pause=0&color=003366&background=FFFFFF00&center=true&vCenter=true&width=320&lines=you+for" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1000&pause=0&color=145A32&background=FFFFFF00&center=true&vCenter=true&width=320&lines=visiting+my" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1000&pause=1200&color=4A235A&background=FFFFFF00&center=true&vCenter=true&width=340&lines=GitHub+profile!" />
-</p>
 
 
 ### 👨‍💻ABOUT ME👨‍💻 
