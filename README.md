@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#228B22;"><strong>🌟 Hi, I'm Ashwin Kumar ⚡</strong></span>
+  <span style="color:#228B22;"><strong>🌟 Hi, I'm Ashwin Kumar 🌟</strong></span>
 </h1>
 
 <p align="center">
