@@ -72,11 +72,11 @@
   - Most Jobs were posted in **December-2021**.
   - Companies favored candidates with **real-world project exposure**.
 - ✅ Result: Provided strategic recommendations for learners and job seekers.
-<!-- Left icon: networking -->
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/10032/10032435.png" width="60" />
+<!-- Colorful connection icon (right side) -->
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/3089/3089758.png" width="100" alt="Networking Icon" />
 
-<!-- Right icon: digital handshake -->
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/11491/11491551.png" width="110" />
+<!-- Colorful handheld network icon (left side) -->
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/979/9792979.png" width="80" alt="Supportive Connection" />
 
 <br />
 
@@ -99,11 +99,10 @@
 <br />
 
 <p align="center">
-  <b>🙏 Thank you for visiting my profile! Feel free to reach out — let’s build something amazing. 🚀</b>
+  <b>🙏 Thank you for visiting my profile! Feel free to reach out — let's build something amazing together. 🚀</b>
 </p>
 
 <br clear="both"/>
-
 
 </p>
 
