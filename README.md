@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Ashwin Kumar 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5252&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ashwin+Kumar;Welcome+to+my+GitHub+World!;Data+Tells+My+Story+📊" alt="Ashwin Kumar Typing SVG" />
+</p>
 
 
 <p align="center">
