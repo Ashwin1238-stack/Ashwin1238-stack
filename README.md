@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Ashwin Kumar 👋</h1>
+<p align="center">
+  <img src="https://i.imgur.com/FI7fj8h.png" width="1000"/>
+</p>
 
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
