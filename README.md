@@ -73,18 +73,28 @@
   - Companies favored candidates with **real-world project exposure**.
 - ✅ Result: Provided strategic recommendations for learners and job seekers.
 
-## 📬 Let's Connect
+## 🌟 Let's Connect & Collaborate
 
 <p align="center">
-  🙏 &nbsp;&nbsp;
   <a href="mailto:ashwinkr676@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp; 💌 &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/ashwin-kumar-9449b0164/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp; 💼
+  &nbsp;
+  <a href="https://github.com/ashwinkr676" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/Peq8hJr.gif" width="250" alt="Thanks for visiting!" />
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by! Have a great day ahead 😊</b>
 </p>
 
 
