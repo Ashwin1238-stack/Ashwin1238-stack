@@ -11,12 +11,11 @@
 </p>
 
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1200&pause=200&color=FF4C4C&background=FFFFFF00&center=true&vCenter=true&width=300&lines=Thank" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1200&pause=200&color=1D9BF0&background=FFFFFF00&center=true&vCenter=true&width=300&lines=you+for" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1200&pause=200&color=2ECC71&background=FFFFFF00&center=true&vCenter=true&width=300&lines=visiting+my" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1200&pause=1200&color=FFC300&background=FFFFFF00&center=true&vCenter=true&width=400&lines=GitHub+profile!" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=FF4C4C&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Thank" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=1D9BF0&background=FFFFFF00&center=true&vCenter=true&width=260&lines=you+for" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=2ECC71&background=FFFFFF00&center=true&vCenter=true&width=260&lines=visiting+my" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=1200&color=6C3483&background=FFFFFF00&center=true&vCenter=true&width=300&lines=GitHub+profile!" />
+
 
 </p>
 
