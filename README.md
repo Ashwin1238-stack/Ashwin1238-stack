@@ -6,11 +6,16 @@
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
 </p>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/639/639365.png" width="120" title="Data Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="120" title="Analytics Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149674.png" width="120" title="Machine Learning"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="120" title="Power BI"/>
+  <!-- Data Icon -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140047.png" width="60" alt="Data Icon" />
+  <!-- Analytics Icon -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2910/2910990.png" width="60" alt="Analytics Icon" />
+  <!-- ML Brain Icon -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149881.png" width="60" alt="Machine Learning Icon" />
+  <!-- Power BI Icon -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969018.png" width="60" alt="Power BI Icon" />
 </p>
+
 
 .<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=FF4C4C&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Thank" />
