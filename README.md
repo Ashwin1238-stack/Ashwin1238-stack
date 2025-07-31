@@ -90,8 +90,12 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/user
+  <img src="https://raw.githubusercontent.com/ashwinkr676/ashwinkr676/main/assets/thank-you.gif" width="300" alt="Thank You" />
+</p>
 
+<p align="center">
+  <b>✨ Thanks for visiting my profile! Let's connect and create something amazing. 🚀</b>
+</p>
 
 </p>
 
