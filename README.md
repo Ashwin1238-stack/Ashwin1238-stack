@@ -120,13 +120,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721296.png" width="60" alt="Insight Icon" />
 </p>
 
-<h3 align="center">
-  <span style="color:#E91E63;">“The goal is</span>
-  <span style="color:#3F51B5;"> to turn data</span>
-  <span style="color:#009688;"> into information,</span>
-  <span style="color:#FF9800;"> and information</span>
-  <span style="color:#4CAF50;"> into insight.”</span>
-</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&center=true&vCenter=true&width=1000&color=212121&lines=The+goal+is+to+turn+data+into+information%2C+and+information+into+insight." alt="Typing SVG" />
 </p>
