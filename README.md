@@ -5,12 +5,13 @@
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
 </p>
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100" alt="Data Analysis Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2989/2989988.png" width="100" alt="Dashboard Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3833/3833927.png" width="100" alt="AI Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="100" alt="Machine Learning Icon"/>
-</p>
+.<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=FF4C4C&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Thank" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=1D9BF0&background=FFFFFF00&center=true&vCenter=true&width=260&lines=you+for" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=2ECC71&background=FFFFFF00&center=true&vCenter=true&width=260&lines=visiting+my" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=1200&color=6C3483&background=FFFFFF00&center=true&vCenter=true&width=300&lines=GitHub+profile!" />
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1000&pause=0&color=990000&background=FFFFFF00&center=true&vCenter=true&width=320&lines=Thank" />
