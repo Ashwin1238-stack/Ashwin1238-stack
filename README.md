@@ -48,7 +48,7 @@
 <p align="right">
 
   <!-- Icon: job market analytics -->
-  <img align="right" src="https://cdn-icons-png.flaticon.com/512/3565/3565002.png" width="90" alt="Market Analysis Icon" />
+  <img align="right" src="https://cdn-icons-png.flaticon.com/512/3565/3565002.png" width="120" alt="Market Analysis Icon" />
 </p>
 
 ### 📉 [**Customer Churn Prediction (Hackathon‑2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)  
