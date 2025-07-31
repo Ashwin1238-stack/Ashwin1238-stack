@@ -1,7 +1,11 @@
 <h1 align="center">
-  👋 <span style="color:#FF4C4C; font-weight:bold; font-size:40px;">Hi, I'm</span> <span style="color:#00BFFF; font-size:42px;"><strong>Ashwin Kumar</strong></span> 👋
+  <span style="display:inline-block; color:#D72638; font-weight:900; font-family:Segoe UI, sans-serif; letter-spacing:2px;">
+    Hi, I'm 
+  </span>
+  <span style="display:inline-block; color:#1E90FF; font-weight:900; font-family:Segoe UI, sans-serif; letter-spacing:2px;">
+    Ashwin Kumar
+  </span>
 </h1>
-
 
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
