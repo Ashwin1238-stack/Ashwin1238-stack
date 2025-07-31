@@ -12,8 +12,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Exploring+the+world+of+DataScience;Exploring+the+world+of+MachineLearning;Visualizing+Business+Stories+with+Data." />
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&size=22&duration=3500&pause=1200&color=9C27B0&background=FFFFFF00&center=true&vCenter=true&width=950&lines=Thank+you+for+visiting+my+GitHub+profile+—+your+time+truly+means+a+lot!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=9C27B0&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+my+GitHub+profile.+Your+time+means+a+lot!" />
+
 
 
 
