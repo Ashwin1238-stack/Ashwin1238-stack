@@ -8,16 +8,16 @@
 <p align="center">
 
   <!-- Python -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="60" style="margin: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="120" style="margin: 10px;" />
 
   <!-- SQL -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="60" style="margin: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="120" style="margin: 10px;" />
 
   <!-- Power BI -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Power BI" width="60" style="margin: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Power BI" width="120" style="margin: 10px;" />
 
   <!-- Excel -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="60" style="margin: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="120" style="margin: 10px;" />
 
 </p>
 
