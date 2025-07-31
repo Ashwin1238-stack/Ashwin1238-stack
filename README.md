@@ -117,7 +117,7 @@
 ---
 
 <p align="right">
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721296.png" width="60" alt="Insight Icon" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721296.png" width="120" alt="Insight Icon" />
 </p>
 
 <p align="center">
