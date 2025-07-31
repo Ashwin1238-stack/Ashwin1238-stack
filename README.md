@@ -1,14 +1,5 @@
 <h1 align="center">Hi, I'm Ashwin Kumar 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG"/>
-</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/3ZQ3Z7T.png" width="600"/>
-</p>
-
-## 🧠 Projects in Data Science  
-> <span style="color:white">All real-world projects are optimized for insights!</span>
 
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
