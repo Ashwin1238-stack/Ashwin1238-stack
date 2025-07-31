@@ -90,12 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/Peq8hJr.gif" width="250" alt="Thanks for visiting!" />
-</p>
-
-<p align="center">
-  <b>Thanks for stopping by! Have a great day ahead 😊</b>
-</p>
+  <img src="https://cdn.dribbble.com/user
 
 
 </p>
