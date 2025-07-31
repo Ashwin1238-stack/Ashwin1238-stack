@@ -73,12 +73,18 @@
   - Companies favored candidates with **real-world project exposure**.
 - ✅ Result: Provided strategic recommendations for learners and job seekers.
 
-### 📬 Let's Connect!
+## 📬 Let's Connect
 
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/1144/1144760.png" width="100"/>
+<p align="center">
+  <a href="mailto:ashwinkr676@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ashwin-kumar-9449b0164/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- 📧 **Email:** ashwinkr676@gmail.com 
-- 🔗 **LinkedIn:** [linkedin.com/in/your-link](https://www.linkedin.com/in/ashwin-kumar-9449b0164/)  
 ---
 
 > “The goal is to turn data into information, and information into insight.” – Carly Fiorina
