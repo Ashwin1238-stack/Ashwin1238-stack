@@ -75,27 +75,38 @@
 
 ## 🌟 Let's Connect & Collaborate
 
+<!-- Left image -->
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/8434/8434310.png" width="60" />
+
+<!-- Right image -->
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120" />
+
+<br />
+
+## 🌟 Let's Connect & Collaborate
+
 <p align="center">
   <a href="mailto:ashwinkr676@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ashwin-kumar-9449b0164/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   &nbsp;
   <a href="https://github.com/ashwinkr676" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashwinkr676/ashwinkr676/main/assets/thank-you.gif" width="300" alt="Thank You" />
-</p>
+<br />
 
 <p align="center">
-  <b>✨ Thanks for visiting my profile! Let's connect and create something amazing. 🚀</b>
+  <b>🙏 Thank you for visiting my profile! Let’s connect and build something incredible together. 🚀</b>
 </p>
+
+<br clear="both"/>
+
 
 </p>
 
