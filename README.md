@@ -57,7 +57,8 @@
 **📈 Process:**  
 - Cleaned and preprocessed large customer datasets  
 - Conducted **EDA** to understand churn drivers  
-- Built and compared **Logistic Regression** and **Random Forest** models  
+- Built and compared **Logistic Regression** and **Random Forest** models
+  
 **💡 Insights:**  
 - Month-to-month customers using **electronic cheque pay** showed **higher churn risk**  
 - **Long-term contracts** and **autopay (credit card)** reduced churn significantly  
