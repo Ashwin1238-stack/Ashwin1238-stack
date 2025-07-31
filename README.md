@@ -5,25 +5,17 @@
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
 </p>
+<!-- GitHub Profile Header with Beautiful Images -->
+
 <p align="center">
-
-  <!-- Bar Graph Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" width="60" alt="Bar Graph Icon" />
-
-  <!-- Pie Chart Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2223/2223615.png" width="60" alt="Pie Chart Icon" />
-
-  <!-- Line Graph Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828833.png" width="60" alt="Line Graph Icon" />
-
-  <!-- Combo Chart Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="60" alt="Combo Chart Icon" />
-
-  <!-- Scatter Plot Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/10485/10485699.png" width="60" alt="Scatter Plot Icon" />
-
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="60" alt="Data Icon" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" alt="Analytics Icon" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149679.png" width="60" alt="Machine Learning Brain" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="60" alt="Power BI Icon" />
 </p>
 
+<h1 align="center" style="color: green;">
+  🚀 Welcome to My Data Science
 
 .<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=FF4C4C&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Thank" />
