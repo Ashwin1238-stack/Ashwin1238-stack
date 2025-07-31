@@ -6,10 +6,10 @@
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
 </p>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/639/639365.png" width="40" title="Data Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="40" title="Analytics Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149674.png" width="40" title="Machine Learning"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="40" title="Power BI"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/639/639365.png" width="120" title="Data Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="120" title="Analytics Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149674.png" width="120" title="Machine Learning"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="120" title="Power BI"/>
 </p>
 
 .<p align="center">
