@@ -76,13 +76,21 @@
 ## 📬 Let's Connect
 
 <p align="center">
+  <img src="https://emoji.slack-edge.com/T02F1TPUG/namaste/ca3e4a18b5f6e4e2.gif" width="40" />
+  &nbsp;&nbsp;
   <a href="mailto:ashwinkr676@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <img src="https://media.tenor.com/R29KZp6HIiYAAAAi/mail-love.gif" width="40" />
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ashwin-kumar-9449b0164/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <img src="https://media.tenor.com/u3B-XwjrYAkAAAAi/linkedin-professional.gif" width="40" />
+</p>
+
 </p>
 
 ---
