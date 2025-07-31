@@ -116,9 +116,6 @@
 
 ---
 
-<p align="right">
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721296.png" width="120" alt="Insight Icon" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&center=true&vCenter=true&width=1000&color=212121&lines=The+goal+is+to+turn+data+into+information%2C+and+information+into+insight." alt="Typing SVG" />
