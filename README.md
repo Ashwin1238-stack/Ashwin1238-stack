@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Ashwin Kumar 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Ashwin+Kumar" alt="Hi, I'm Ashwin Kumar typing animation" />
-</p>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/-Hi%2C%20I'm%20Ashwin%20Kumar-black?style=for-the-badge&logoColor=white&labelColor=FF5555&color=202124"/>
+</h1>
+
 
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
