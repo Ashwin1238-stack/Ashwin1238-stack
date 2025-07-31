@@ -128,4 +128,7 @@
   <span style="color:#4CAF50;"> into insight.”</span>
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%22The+goal+is+to+turn+data+into+information%2C+and+information+into+insight.%22" alt="Typing SVG" />
+</p>
 
