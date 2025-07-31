@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Ashwin Kumar 👋</h1>
-<h1 align="center">
-  <img src="https://img.shields.io/badge/-Hi%2C%20I'm%20Ashwin%20Kumar-black?style=for-the-badge&logoColor=white&labelColor=FF5555&color=202124"/>
+<h1 align="center" style="font-size:40px; color:#FF4C4C; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Hi, I'm <span style="color:#00BFFF;">Ashwin Kumar</span>
 </h1>
-
 
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
