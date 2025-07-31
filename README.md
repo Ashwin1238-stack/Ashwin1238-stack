@@ -71,7 +71,8 @@
 **📊 Process:**  
 - Scraped live job postings via **APIs and web scraping**  
 - Cleaned data to standardize job titles, locations, and skills  
-- Queried datasets using MySQL for aggregated insights  
+- Queried datasets using MySQL for aggregated insights
+    
 **💡 Insights:**  
 - Top in-demand roles: **Management**, **Engineering**, and **Analyst**  
 - Geographic hotspots: **Seoul** and **Apia**  
