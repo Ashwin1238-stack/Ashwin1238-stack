@@ -43,35 +43,44 @@
 </p>
 
 ---
-## 📂 Featured Projects
+## 📚 My Projects & Insights
 
+<p align="center">
+  <!-- Decorative icon -->
+  <img align="right" src="https://cdn-icons-png.flaticon.com/512/3293/3293884.png" width="80" alt="Analytics Icon" />
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/190/190601.png" width="80" alt="Data Project Icon" />
+</p>
 
- 📉 [**Customer Churn Prediction (Hackathon-2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)
-- - 🔍 Objective: To predict which telecom users are likely to **churn**.
-- 🛠️ Tools: Python, PowerBI, Logistic Regression, Random Forest.
-- 📈 Process:
-  - Cleaned and preprocessed raw customer data.
-  - Performed **Exploratory Data Analysis (EDA)** to identify factors.
-  - Built a **Logistic Regression model** and **Random Forest model**.
-- 💡 Insights:
-  - Month-to-month customers with Electronics Cheque Pay had **high churn risk**.
-  - Long-term contracts and autopay(credit card) were **linked to lower churn**.
-- ✅ Result: Helped design targeted retention strategies to reduce churn.  
+### 📉 [**Customer Churn Prediction (Hackathon‑2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)
+**🔍 Objective:** Predict telecom customer churn.  
+**🛠️ Tools:** Python, Power BI, Logistic Regression, Random Forest.  
+**📈 Process:**  
+- Cleaned and preprocessed raw customer data.  
+- Performed **EDA** to discover churn drivers.  
+- Built and evaluated **Logistic Regression** and **Random Forest** models.  
+**💡 Insights:**  
+- Month‑to‑month plans with **electronic cheque pay** had **higher churn risk**.  
+- Long‑term contracts & **auto‑pay (credit card)** linked to **lower churn**.  
+**✅ Result:** Generated data‑driven strategies to design effective retention campaigns.
 
- 
- 📊 [**Job Market Analysis**](https://github.com/Ashwin1238-stack/Job-Scraper-Analyzing-Data-Roles-Trends)  
-- 🔍 Objective: To explore job trends and skills demand in the data industry.
-- 🛠️ Tools: Python, SQL and Excel.
-- 📊 Process:
-  - Tried to collect job listings data using **web scraping and APIs**.
-  - Cleaned and normalized job titles, locations, and skill tags.
-  - onnected MySQL using SQL Connector for Querries.
-- 💡 Insights:
-  - Management, Engineering and Analyst were **top 3 demanded skills**.
-  - Seoul and Apia were major hubs for **Multiple Job Post**.
-  - Most Jobs were posted in **December-2021**.
-  - Companies favored candidates with **real-world project exposure**.
-- ✅ Result: Provided strategic recommendations for learners and job seekers.
+---
+
+### 📊 [**Job Market Analysis**](https://github.com/Ashwin1238-stack/Job-Scraper-Analyzing-Data-Roles-Trends)
+**🔍 Objective:** Analyze demand trends for data industry roles.  
+**🛠️ Tools:** Python, SQL, Excel.  
+**📊 Process:**  
+- Scraped job listings via **web scraping** and APIs.  
+- Cleaned and normalized job titles, locations, skills.  
+- Connected MySQL via SQL Connector for querying.  
+**💡 Insights:**  
+- **Management**, **Engineering**, and **Analyst** were the top three in-demand skills.  
+- **Seoul** and **Apia** emerged as major job hubs.  
+- Peak postings observed in **December 2021**.  
+- Employers valued **real-world project experience**.  
+**✅ Result:** Delivered strategic career advice based on data trends.
+
+<br clear="both"/>
+
 <!-- Colorful connection icon (right side) -->
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/3089/3089758.png" width="100" alt="Networking Icon" />
 
