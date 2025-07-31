@@ -43,43 +43,45 @@
 </p>
 
 ---
-## 📚 My Projects & Insights
+## 🎯 My Projects & Insights
 
 <p align="center">
-  <!-- Decorative icon -->
-  <img align="right" src="https://cdn-icons-png.flaticon.com/512/3293/3293884.png" width="80" alt="Analytics Icon" />
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/190/190601.png" width="80" alt="Data Project Icon" />
+  <!-- Left colorful graph icon -->
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/3479/3479371.png" width="70" alt="Analytics Graph" />
+  <!-- Right colorful data team icon -->
+  <img align="right" src="https://cdn-icons-png.flaticon.com/512/3444/3444076.png" width="90" alt="Data Team Collaboration" />
 </p>
 
-### 📉 [**Customer Churn Prediction (Hackathon‑2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)
-**🔍 Objective:** Predict telecom customer churn.  
-**🛠️ Tools:** Python, Power BI, Logistic Regression, Random Forest.  
+### 📉 [**Customer Churn Prediction (Hackathon‑2025)**](https://github.com/Ashwin1238-stack/Hackathon-Project)  
+**🔍 Objective:** Predict telecom user churn  
+**🛠️ Tools:** Python, Power BI, Logistic Regression, Random Forest  
 **📈 Process:**  
-- Cleaned and preprocessed raw customer data.  
-- Performed **EDA** to discover churn drivers.  
-- Built and evaluated **Logistic Regression** and **Random Forest** models.  
+- Cleaned/preprocessed raw customer data  
+- Performed **EDA** to identify churn predictors  
+- Built both **Logistic Regression** & **Random Forest** models  
 **💡 Insights:**  
-- Month‑to‑month plans with **electronic cheque pay** had **higher churn risk**.  
-- Long‑term contracts & **auto‑pay (credit card)** linked to **lower churn**.  
-**✅ Result:** Generated data‑driven strategies to design effective retention campaigns.
+- Month‑to‑month plan users with **electronic cheque pay** had **higher churn risk**  
+- **Long-term contracts** + **autopay (credit card)** were tied to **reduced churn**  
+**✅ Result:** Enabled design of targeted retention strategies to lower churn
 
 ---
 
-### 📊 [**Job Market Analysis**](https://github.com/Ashwin1238-stack/Job-Scraper-Analyzing-Data-Roles-Trends)
-**🔍 Objective:** Analyze demand trends for data industry roles.  
-**🛠️ Tools:** Python, SQL, Excel.  
+### 📊 [**Job Market Analysis**](https://github.com/Ashwin1238-stack/Job-Scraper-Analyzing-Data-Roles-Trends)  
+**🔍 Objective:** Explore data industry role trends and skill demand  
+**🛠️ Tools:** Python, SQL, Excel  
 **📊 Process:**  
-- Scraped job listings via **web scraping** and APIs.  
-- Cleaned and normalized job titles, locations, skills.  
-- Connected MySQL via SQL Connector for querying.  
+- Scraped job listings via **APIs & scraping**  
+- Cleaned and normalized job titles, locations, and skills  
+- Queried data in MySQL via SQL Connector  
 **💡 Insights:**  
-- **Management**, **Engineering**, and **Analyst** were the top three in-demand skills.  
-- **Seoul** and **Apia** emerged as major job hubs.  
-- Peak postings observed in **December 2021**.  
-- Employers valued **real-world project experience**.  
-**✅ Result:** Delivered strategic career advice based on data trends.
+- **Management**, **Engineering**, and **Analyst** roles topped the demand list  
+- Job hotspots: **Seoul** and **Apia**  
+- Posting peaks observed in **December 2021**  
+- Employers prioritize candidates with **real-world project experience**  
+**✅ Result:** Delivered actionable career guidance backed by real-world data
 
 <br clear="both"/>
+
 
 <!-- Colorful connection icon (right side) -->
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/3089/3089758.png" width="100" alt="Networking Icon" />
