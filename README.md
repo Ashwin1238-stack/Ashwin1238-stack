@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=7000&pause=1000&color=FF5555&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ashwin+Kumar.;Welcome+to+my+GitHub+Profile!;Data+is+the+New+Oil+%E2%9C%A8" alt="Welcome Banner"/>
-</p>
-
-
+<h1 align="center" style="color:#FF5555; font-size: 36px;">
+  Hi, I'm <span style="color:#6C63FF;">Ashwin Kumar</span>
+</h1>
 <p align="center">
   💼 Ex-HDFC Bank &nbsp; | &nbsp;🎓 MBA in Business Analytics &nbsp; | &nbsp; 🌍 From Ranchi, Jharkhand
 </p>
