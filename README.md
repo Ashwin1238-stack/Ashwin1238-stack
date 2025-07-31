@@ -73,23 +73,6 @@
   - Companies favored candidates with **real-world project exposure**.
 - ✅ Result: Provided strategic recommendations for learners and job seekers.
 
-## 🌟 Let's Connect & Collaborate
-
-<!-- Left image -->
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/8434/8434310.png" width="60" />
-
-<!-- Right image -->
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120" />
-
-<br />
-
-<!-- Left icon: networking -->
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/10032/10032435.png" width="60" />
-
-<!-- Right icon: digital handshake -->
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/11491/11491551.png" width="110" />
-
-<br />
 
 ## 🤝 Let's Connect & Collaborate
 
