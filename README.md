@@ -46,8 +46,7 @@
 ## 🎯 My Projects & Insights
 
 <p align="right">
-  <!-- Icon: churn rate chart -->
-  <img align="right" src="https://cdn-icons-png.flaticon.com/512/9593/9593083.png" width="70" alt="Churn Rate Icon" />
+
   <!-- Icon: job market analytics -->
   <img align="right" src="https://cdn-icons-png.flaticon.com/512/3565/3565002.png" width="90" alt="Market Analysis Icon" />
 </p>
